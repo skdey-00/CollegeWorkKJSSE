@@ -1,0 +1,25 @@
+# ── Keep the repo lean and legal ──────────────────────────────
+
+# Raw college archive: 2 extracted trees (~1.5 GB each) + zip parts.
+# GitHub blocks >100 MB files anyway. The 41 relevant papers live in SORTED_BY_SUBJECT/.
+Past Question Papers-20261106T171423Z-1-001.zip
+Past Question Papers-20261106T171423Z-1-002.zip
+Past Question Papers-20261106T171423Z-1-001/
+Past Question Papers-20261106T171423Z-1-002/
+
+# Study-material folders: faculty slide decks + a copyrighted textbook.
+# Un-comment ONLY if you have permission to publish these.
+# Mechanics Of Materials (MMR)/
+# Hydraulics and Pnumatics Systems (HPS)/
+# Manufacturing Processes (MPR)/
+# Data Structures And Algorithms (DSA)/
+
+# Working artifacts
+_ocr_*.png
+
+# OS junk
+Thumbs.db
+desktop.ini
+.DS_Store
+
+.claude/
